@@ -1,0 +1,10 @@
+Package: unicorns
+Title: Simulate an array of ecological datasets
+Version: 0.0.0.9000
+Authors@R: 
+    person("Francisca", "Javiera", "Rudolph", , "f.javierarudolph.com", role = c("aut", "cre"))
+Description: This package is built to simulate toy-datasets to use as examples for various ecological scenarios.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
